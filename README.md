@@ -1,6 +1,6 @@
 # Data Engineering on Azure
 
-This repository contains teaching materials for performing Data Engineering tasks on Azure. The course is designed for industry professionals who can dedicate 2-3 hours per week over a span of 8 to 9 weeks. 
+I am Shaukat Abidi, the creator and instructor of this course. This repository has been curated to provide comprehensive teaching materials for Data Engineering on Azure.It contains teaching materials for performing Data Engineering tasks on Azure. The course is designed for industry professionals who can dedicate 2-3 hours per week over a span of 8 to 9 weeks. 
 
 ### Course Highlights:
 - Designed for industry professionals with limited time (2-3 hours per week).
